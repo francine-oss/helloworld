@@ -12,7 +12,7 @@
 
   <artifactId>devops</artifactId>
   <packaging>war</packaging>
-  <name>Webapp</name>
+  <name>devops</name>
   <description>devops.</description>
 
   <build>

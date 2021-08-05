@@ -1,5 +1,5 @@
 # Pull base image 
-FROM tomcat:8-jre8 
+from tomcat:8-jre8 
 
 # Maintainer 
 LABEL MAINTAINER "fkemajounjakwa@gmail.com" 
